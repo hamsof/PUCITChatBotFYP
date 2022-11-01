@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous">
+    <title>Email detection</title>
+</head>
+<style>
+    body{
+        background-color: rgb(162, 174, 185);
+    }
+    .heading{
+        text-align: center;
+    }
+    .input_area{
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 150px;
+    }
+    small{
+        font-size: 10px;
+    }
+</style>
+<body>
+    <div class="heading">
+        <h3>
+            Email Classification System
+            <br>
+            <small class="text-muted">Powered by Dr Arif Butt</small>
+        </h3>
+    </div>
+    <div class="mb-3 input_area">
+        <form action="/check" name="email" method="post">
+        <label for="exampleFormControlTextarea1" class="form-label">Enter your email (text) here</label>
+        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3" name="email_text">{{data_email}}</textarea>
+        <button type="submit" class="btn btn-success mt-3">Enter</button>
+        </form>
+        <div>
+            {{msg |safe}}
+          </div>
+      </div>
+</body>
+</html>
