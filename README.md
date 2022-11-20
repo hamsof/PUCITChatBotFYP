@@ -38,7 +38,7 @@ Topic Modelling model implemented using Sklearn's Latent Dirichlet Allocation.
 1. pandas
 2. sklearn
 
-Data Sets are attached, along with the Jupyter Notebook 
+The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO19bK5z3bajnsL9cRvZ8ztsSrwZKqLR_zTl-Qz8Aew
 <br>
 
 ## Spam Ham detection
