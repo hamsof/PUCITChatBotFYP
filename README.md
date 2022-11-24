@@ -52,13 +52,12 @@ The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO
 
 ### Process
 1. model.py
-<br>
-  &emsp;First using text processing and Naive Bayes train the dataset. <br>
-  &emsp;Second pickle these two models separately. <br>  
+  &emsp;- Using text processing and Naive Bayes train the dataset. <br>
+  &emsp;- Second pickle these two models separately. <br>  
 2. app.py
-  &emsp;First get the input from user pass this text to text preprocessing pickle model. <br>
-  &emsp;then pass this pre processed text to Naive Bayes pickle file to see if it is ham or spam. <br>
-  &emsp; By using Jinja`s syntax we can communicate from frontend to backend
+  &emsp;- Get the input from user pass this text to text preprocessing pickle model. <br>
+  &emsp;- Then pass this pre processed text to Naive Bayes pickle file to see if it is ham or spam. <br>
+  &emsp;- By using Jinja`s syntax we can communicate from frontend to backend
   
 Email filtering system deployed on Heroku developed in Flask : https://emaildetectionsystem.herokuapp.com
 
