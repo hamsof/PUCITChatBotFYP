@@ -42,6 +42,20 @@ The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO
 <br>
 
 ## Spam Ham detection
+
+### Packages Required:
+1. sklearn
+2. nltk
+3. pickle
+4. Flask
+
+### Process
+model.py
+  First using text processing and Naive Bayes train the dataset. 
+  Second pickle these two models separately
+app.py
+  First get the input from user pass this text to text preprocessing pickle model
+  then pass this pre processed text to Naive Bayes pickle file to see if it is ham or spam
 Email filtering system deployed on Heroku developed in Flask : https://emaildetectionsystem.herokuapp.com
 
 <br>
