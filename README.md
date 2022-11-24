@@ -50,12 +50,12 @@ The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO
 4. Flask
 
 ### Process
-model.py
-  First using text processing and Naive Bayes train the dataset. 
-  Second pickle these two models separately
-app.py
-  First get the input from user pass this text to text preprocessing pickle model
-  then pass this pre processed text to Naive Bayes pickle file to see if it is ham or spam
+1. model.py
+  &emsp;First using text processing and Naive Bayes train the dataset. 
+  &emsp;Second pickle these two models separately
+2. app.py
+  &emsp;First get the input from user pass this text to text preprocessing pickle model
+  &emsp;then pass this pre processed text to Naive Bayes pickle file to see if it is ham or spam
 Email filtering system deployed on Heroku developed in Flask : https://emaildetectionsystem.herokuapp.com
 
 <br>
