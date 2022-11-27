@@ -62,3 +62,16 @@ The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO
 Email filtering system deployed on Heroku developed in Flask : https://emaildetectionsystem.herokuapp.com
 
 <br>
+
+## Introduction to Deep Learning
+An Overview to what deep learning is and why it is needed, and an introduction of topics that are necassary to know about before stepping into the world of deep learning. The topics includes:
+1. Working of Perceptron
+2. Bias in Perceptron
+3. What are Activation functions
+4. Different Types of Activation functions
+5. How to choose an Activation function
+6. What are Loss functions
+7. Forward Propagation
+8. Backward Propagation
+
+<br>
