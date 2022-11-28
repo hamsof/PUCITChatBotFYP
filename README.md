@@ -2,6 +2,10 @@
 Collection of codes related to our Final Year Project of developing AI driven chatbot application for PUCIT
 <br>
 
+## MACHINE LEARNING
+The following topics are studied and implemented under the domain of Machine Learning.
+<br>
+
 ## Regression through OLS:
 
 Linear and Mulitlinear Regression implemented using Sklearn's Ordinary Least Squares(OLS) Model
@@ -41,7 +45,9 @@ Topic Modelling model implemented using Sklearn's Latent Dirichlet Allocation.
 The data set used in this model is available at https://mega.nz/file/ziIGGZYB#gO19bK5z3bajnsL9cRvZ8ztsSrwZKqLR_zTl-Qz8Aew
 <br>
 
-## Spam Ham detection
+## Spam Ham detection:
+
+Detecting email text as Spam or Ham using Naive Bayes.
 
 ### Packages Required:
 1. sklearn
@@ -63,8 +69,11 @@ Email filtering system deployed on Heroku developed in Flask : https://emaildete
 
 <br>
 
-## Introduction to Deep Learning
-An Overview to what deep learning is and why it is needed, and an introduction of topics that are necassary to know about before stepping into the world of deep learning. The topics includes:
+## DEEP LEARNING
+The following topics are studied and implemented under the domain of Machine Learning.
+<br>
+## Introduction to Deep Learning And Artificial Neural Networks:
+An Overview to what deep learning is and why it is needed, and an introduction of topics that are necassary to know about before stepping into the world of deep learning, starting from Artificial Neural Networks. The topics includes:
 1. Working of Perceptron
 2. Bias in Perceptron
 3. What are Activation functions
@@ -76,7 +85,7 @@ An Overview to what deep learning is and why it is needed, and an introduction o
 
 <br>
 
-## Batched Gradient Descent
+## Batched Gradient Descent:
 Batched Gradient Descent is implemented using numpy. The working of BGD is explained step by step using toy dataset and then the implementation is done on real world dataset.
 ### Packages Required:
 1. numpy
