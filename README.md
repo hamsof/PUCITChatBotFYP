@@ -106,5 +106,5 @@ Stochastic Gradient Descent is implemented using numpy. The working of SGD is ex
 3. matplotlib
 
 Data Sets are attached, along with the Jupyter Notebook.
-The Dataset "Book1.csv" is the dataset of toy example while "GPA.csv" is the real dataset. Two different datasets are used because for SGD to give good results dataset should include atleast 30 datapoints.
+The Dataset "Book1.csv" is the dataset of toy example while "GPA.csv" is the real dataset.
 <br>
