@@ -1,3 +1,10 @@
+# Long-Short Term Memory
+LSTMs – are a special kind of RNN, capable of learning long-term dependencies. LSTMs are explicitly designed to avoid the long-term dependency problem. Remembering information for long periods of time is practically their default behavior, not something they struggle to learn!<br>
+This notebook describes in detail:
+
+1. What is Long-Short Term Memory
+2. Core idea behind LSTM
+3. Example of LSTM prediction
 # Word Prediction using LSTM:
 The model will predict the next n words of a movie title given a starting word, using Long Short Term Memory.
 Keras pre-defined model is used.
