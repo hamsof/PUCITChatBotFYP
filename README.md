@@ -37,7 +37,7 @@ Unsupervised learning is a type of algorithm that learns patterns from untagged 
 Topic Modelling model implemented using Sklearn's Latent Dirichlet Allocation.
 
 ### Word2Vec:
-
+Word2Vec model implemented using numpy.
 
 ## Deep Learning
 The following topics are studied and implemented under the domain of Deep Learning.
