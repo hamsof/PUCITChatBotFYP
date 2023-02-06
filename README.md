@@ -39,19 +39,21 @@ Topic Modelling model implemented using Sklearn's Latent Dirichlet Allocation.
 ### Word2Vec:
 Word2Vec model implemented using numpy.
 
-## Deep Learning
+## Deep Learning:
 The following topics are studied and implemented under the domain of Deep Learning.
 <br>
 
-### Artificial Neural Networks
+### Artificial Neural Networks:
 An introduction of topics that are necessary to know about before stepping into the world of deep learning, starting from Artificial Neural Networks.
 
-### Recurrent Neural Networks
+### Recurrent Neural Networks:
 A detailed explanation of what RNNs are, what are it's applications and the vanishing gradient problem which exists in it. Following topics are covered under RNN.
 
-### Long Short-Term Memory
+### Long Short-Term Memory:
 A detailed explanantion of LSTM, how it works and it's implementation.
 
+### Encoder Decoder Architecture:
+Encoder Decoder Architecture with Attention mechanisms implemented in the Seq2Seq model.
 
 
 
