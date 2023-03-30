@@ -29,6 +29,8 @@ Classification is a predictive modeling problem where the class label is anticip
 
 ### a. Ham Spam Detection:
 Detecting email text as Spam or Ham using Naive Bayes.
+### b. Heart Disease Detection:
+Detecting whether patient has heart disease or not using Logistic Regression.
 
 ## Unsupervised Machine Learning:
 Unsupervised learning is a type of algorithm that learns patterns from untagged data. Following topics are covered under it's domain.  
@@ -49,10 +51,10 @@ An introduction of topics that are necessary to know about before stepping into 
 ### 2. Recurrent Neural Networks:
 A detailed explanation of what RNNs are, what are it's applications and the vanishing gradient problem which exists in it. Following topics are covered under RNN.
 
-### 3. Long Short-Term Memory:
+### a. Long Short-Term Memory:
 A detailed explanantion of LSTM, how it works and it's implementation.
 
-### 4. Encoder Decoder Architecture:
+### b. Encoder Decoder Architecture:
 Encoder Decoder Architecture with Attention mechanisms implemented in the Seq2Seq model.
 
 
