@@ -33,7 +33,9 @@ Detecting email text as Spam or Ham using Naive Bayes.
 Titanic Survival Probability implemented using Gaussian Naive Bayes.
 ### c. Heart Disease Detection:
 Detecting whether patient has heart disease or not using Logistic Regression.
-### d. K-Nearest Neigbors:
+### d. Support Vector Machine
+Predicting Customer Purchases Based on Gender, Age, and Salary using Support Vector Machine.
+### e. K-Nearest Neigbors:
 Movies Recommendation System implemented using K-Nearest Neigbors.
 
 ## Unsupervised Machine Learning:
