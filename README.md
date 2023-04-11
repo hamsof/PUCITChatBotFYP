@@ -37,6 +37,8 @@ Detecting whether patient has heart disease or not using Logistic Regression.
 Predicting Customer Purchases Based on Gender, Age, and Salary using Support Vector Machine.
 ### e. K-Nearest Neigbors:
 Movies Recommendation System implemented using K-Nearest Neigbors.
+### f. Decision Tree
+Determining species of Iris flower using decision trees
 
 ## Unsupervised Machine Learning:
 Unsupervised learning is a type of algorithm that learns patterns from untagged data. Following topics are covered under it's domain.  
